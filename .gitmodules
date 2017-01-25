@@ -31,3 +31,6 @@
 [submodule "coruws-library"]
 	path = coruws-library
 	url = https://github.com/coruws/lib.git
+[submodule "artillery-protection"]
+	path = artillery-protection
+	url = https://github.com/BinaryDefense/artillery.git
