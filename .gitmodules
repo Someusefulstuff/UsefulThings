@@ -22,3 +22,6 @@
 [submodule "redis"]
 	path = redis
 	url = https://github.com/antirez/redis.git
+[submodule "AVL-random-stuff"]
+	path = AVL-random-stuff
+	url = https://github.com/AlienVault-Labs/AlienVaultLabs.git
