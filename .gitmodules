@@ -25,3 +25,6 @@
 [submodule "AVL-random-stuff"]
 	path = AVL-random-stuff
 	url = https://github.com/AlienVault-Labs/AlienVaultLabs.git
+[submodule "lxc-repo"]
+	path = lxc-repo
+	url = https://github.com/lxc/lxc.git
