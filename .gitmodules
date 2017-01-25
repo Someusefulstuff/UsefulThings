@@ -1,0 +1,3 @@
+[submodule "zeitkit"]
+	path = zeitkit
+	url = https://github.com/ZEITIO/zeitkit.git
