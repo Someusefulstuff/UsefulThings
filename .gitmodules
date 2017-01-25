@@ -10,3 +10,6 @@
 [submodule "SET"]
 	path = SET
 	url = https://github.com/trustedsec/social-engineer-toolkit.git
+[submodule "wifijammer"]
+	path = wifijammer
+	url = https://github.com/DanMcInerney/wifijammer.git
