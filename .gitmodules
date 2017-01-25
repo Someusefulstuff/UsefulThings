@@ -19,3 +19,6 @@
 [submodule "draw.io"]
 	path = draw.io
 	url = https://github.com/jgraph/draw.io.git
+[submodule "redis"]
+	path = redis
+	url = https://github.com/antirez/redis.git
