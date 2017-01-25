@@ -28,3 +28,6 @@
 [submodule "lxc-repo"]
 	path = lxc-repo
 	url = https://github.com/lxc/lxc.git
+[submodule "coruws-library"]
+	path = coruws-library
+	url = https://github.com/coruws/lib.git
