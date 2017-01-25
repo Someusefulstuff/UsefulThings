@@ -16,3 +16,6 @@
 [submodule "yarn"]
 	path = yarn
 	url = https://github.com/yarnpkg/yarn.git
+[submodule "draw.io"]
+	path = draw.io
+	url = https://github.com/jgraph/draw.io.git
