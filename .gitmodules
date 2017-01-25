@@ -13,3 +13,6 @@
 [submodule "wifijammer"]
 	path = wifijammer
 	url = https://github.com/DanMcInerney/wifijammer.git
+[submodule "yarn"]
+	path = yarn
+	url = https://github.com/yarnpkg/yarn.git
