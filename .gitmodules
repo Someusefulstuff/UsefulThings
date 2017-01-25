@@ -1,3 +1,9 @@
 [submodule "zeitkit"]
 	path = zeitkit
 	url = https://github.com/ZEITIO/zeitkit.git
+[submodule "netdata"]
+	path = netdata
+	url = https://github.com/firehol/netdata.git
+[submodule "ServerStatus"]
+	path = ServerStatus
+	url = https://github.com/Munroenet/ServerStatus.git
