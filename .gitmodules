@@ -7,3 +7,6 @@
 [submodule "ServerStatus"]
 	path = ServerStatus
 	url = https://github.com/Munroenet/ServerStatus.git
+[submodule "SET"]
+	path = SET
+	url = https://github.com/trustedsec/social-engineer-toolkit.git
