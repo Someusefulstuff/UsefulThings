@@ -34,3 +34,6 @@
 [submodule "artillery-protection"]
 	path = artillery-protection
 	url = https://github.com/BinaryDefense/artillery.git
+[submodule "secure_delete"]
+	path = secure_delete
+	url = https://github.com/BlackArch/secure-delete.git
