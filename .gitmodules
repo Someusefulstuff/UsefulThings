@@ -37,3 +37,6 @@
 [submodule "secure_delete"]
 	path = secure_delete
 	url = https://github.com/BlackArch/secure-delete.git
+[submodule "generatedata"]
+	path = generatedata
+	url = https://github.com/benkeen/generatedata.git
