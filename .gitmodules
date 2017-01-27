@@ -40,3 +40,6 @@
 [submodule "generatedata"]
 	path = generatedata
 	url = https://github.com/benkeen/generatedata.git
+[submodule "test_database"]
+	path = test_database
+	url = https://github.com/datacharmer/test_db.git
