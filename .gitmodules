@@ -43,3 +43,6 @@
 [submodule "test_database"]
 	path = test_database
 	url = https://github.com/datacharmer/test_db.git
+[submodule "bounce.js"]
+	path = bounce.js
+	url = https://github.com/tictail/bounce.js.git
