@@ -46,3 +46,6 @@
 [submodule "bounce.js"]
 	path = bounce.js
 	url = https://github.com/tictail/bounce.js.git
+[submodule "Cli-plugin"]
+	path = Cli-plugin
+	url = https://github.com/g1eb/cli-plugin.git
