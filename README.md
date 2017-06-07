@@ -6,7 +6,7 @@ Tools, tricks, open-source projects, etc.
 ### How to clone all repos:
 ` git clone https://github.com/LITHERO/UsefulThings.git `
 
-` git submodule update `
+` git submodule init `
 
 ### How to clone several repo in list:
 ` git clone https://github.com/LITHERO/UsefulThings.git `
